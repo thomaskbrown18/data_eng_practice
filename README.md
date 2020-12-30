@@ -1,1 +1,5 @@
-# data_eng_practice
+# Data Engineering Practice from Data Camp
+
+WIP, check back soon :)
+
+-TB
